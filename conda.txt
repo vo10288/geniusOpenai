@@ -1,0 +1,522 @@
+
+     active environment : py3.12
+    active env location : /Users/CFDA_BOLOGNA/opt/anaconda3/envs/py3.12
+            shell level : 2
+       user config file : /Users/CFDA_BOLOGNA/.condarc
+ populated config files : 
+          conda version : 22.9.0
+    conda-build version : 3.22.0
+         python version : 3.9.13.final.0
+       virtual packages : __osx=10.16=0
+                          __unix=0=0
+                          __archspec=1=x86_64
+       base environment : /Users/CFDA_BOLOGNA/opt/anaconda3  (writable)
+      conda av data dir : /Users/CFDA_BOLOGNA/opt/anaconda3/etc/conda
+  conda av metadata url : None
+           channel URLs : https://repo.anaconda.com/pkgs/main/osx-64
+                          https://repo.anaconda.com/pkgs/main/noarch
+                          https://repo.anaconda.com/pkgs/r/osx-64
+                          https://repo.anaconda.com/pkgs/r/noarch
+          package cache : /Users/CFDA_BOLOGNA/opt/anaconda3/pkgs
+                          /Users/CFDA_BOLOGNA/.conda/pkgs
+       envs directories : /Users/CFDA_BOLOGNA/opt/anaconda3/envs
+                          /Users/CFDA_BOLOGNA/.conda/envs
+               platform : osx-64
+             user-agent : conda/22.9.0 requests/2.32.3 CPython/3.9.13 Darwin/22.6.0 OSX/10.16
+                UID:GID : 502:20
+             netrc file : None
+           offline mode : False
+
+conda 22.9.0
+# packages in environment at /Users/CFDA_BOLOGNA/opt/anaconda3/envs/py3.12:
+#
+# Name                    Version                   Build  Channel
+absl-py                   2.1.0                    pypi_0    pypi
+aiofiles                  24.1.0                   pypi_0    pypi
+aiohappyeyeballs          2.4.3                    pypi_0    pypi
+aiohttp                   3.11.7                   pypi_0    pypi
+aiosignal                 1.3.1                    pypi_0    pypi
+altgraph                  0.17.4                   pypi_0    pypi
+annotated-types           0.7.0                    pypi_0    pypi
+anyio                     4.6.2.post1              pypi_0    pypi
+aom                       3.6.0                hcec6c5f_0  
+argostranslate            1.9.6                    pypi_0    pypi
+ascii-colors              0.4.2                    pypi_0    pypi
+astc-decomp-faster        1.1.2                    pypi_0    pypi
+attrs                     24.2.0                   pypi_0    pypi
+auto-py-to-exe            2.42.0                   pypi_0    pypi
+autopep8                  2.3.1                    pypi_0    pypi
+bcrypt                    3.2.0                    pypi_0    pypi
+beautifulsoup4            4.12.3                   pypi_0    pypi
+bencoding                 0.2.6                    pypi_0    pypi
+bidict                    0.23.1                   pypi_0    pypi
+biplist                   1.0.3                    pypi_0    pypi
+blackboxprotobuf          1.0.1                    pypi_0    pypi
+blas                      1.0                         mkl  
+bottle                    0.12.25                  pypi_0    pypi
+bottle-websocket          0.2.9                    pypi_0    pypi
+branca                    0.7.1                    pypi_0    pypi
+bs4                       0.0.2                    pypi_0    pypi
+bzip2                     1.0.8                h1de35cc_0  
+c-ares                    1.19.1               h6c40b1e_0  
+ca-certificates           2025.8.3             hbd8a1cb_0    conda-forge
+cairo                     1.16.0               h3ce6f7e_5  
+certifi                   2024.2.2                 pypi_0    pypi
+cffi                      1.16.0                   pypi_0    pypi
+chardet                   3.0.4                    pypi_0    pypi
+charset-normalizer        3.3.2                    pypi_0    pypi
+chromium                  0.0.0                    pypi_0    pypi
+click                     8.1.7                    pypi_0    pypi
+click-plugins             1.1.1                    pypi_0    pypi
+cobble                    0.1.3                    pypi_0    pypi
+colorama                  0.4.6                    pypi_0    pypi
+colorclass                2.2.2                    pypi_0    pypi
+compressed-rtf            1.0.6                    pypi_0    pypi
+contourpy                 1.2.0                    pypi_0    pypi
+cramjam                   2.9.1                    pypi_0    pypi
+cryptography              42.0.5                   pypi_0    pypi
+ctranslate2               4.3.1                    pypi_0    pypi
+curl                      8.9.1                h184c1cd_0  
+cycler                    0.12.1                   pypi_0    pypi
+cyrus-sasl                2.1.28               h3973f50_1  
+datasets                  3.1.0                    pypi_0    pypi
+dav1d                     1.2.1                h0dc2134_0    conda-forge
+defusedxml                0.7.1                    pypi_0    pypi
+dill                      0.3.8                    pypi_0    pypi
+distro                    1.9.0                    pypi_0    pypi
+dnspython                 2.7.0                    pypi_0    pypi
+dpkt                      1.9.8                    pypi_0    pypi
+easygui                   0.98.3                   pypi_0    pypi
+ebcdic                    1.1.1                    pypi_0    pypi
+eel                       0.16.0                   pypi_0    pypi
+eigen                     3.4.0                h940c156_0    conda-forge
+einops                    0.8.0                    pypi_0    pypi
+et-xmlfile                1.1.0                    pypi_0    pypi
+expat                     2.6.4                h240833e_0    conda-forge
+extract-msg               0.52.0                   pypi_0    pypi
+fastapi                   0.115.5                  pypi_0    pypi
+ffmpeg                    6.1.1                hd2ef4e1_2  
+filelock                  3.16.1                   pypi_0    pypi
+fitdecode                 0.10.0                   pypi_0    pypi
+folium                    0.14.0                   pypi_0    pypi
+fontconfig                2.14.1               h269ac6a_3  
+fonttools                 4.49.0                   pypi_0    pypi
+fpdf                      1.7.2                    pypi_0    pypi
+freedom-search            0.2.0                    pypi_0    pypi
+freetype                  2.10.4               h4cff582_1    conda-forge
+fribidi                   1.0.10               hbcb3906_0    conda-forge
+frozenlist                1.5.0                    pypi_0    pypi
+fsspec                    2024.9.0                 pypi_0    pypi
+future                    0.18.3                   pypi_0    pypi
+gdbm                      1.18                 hdccc71a_4  
+gdk-pixbuf                2.42.10              h46256e1_1  
+geographiclib             2.0                      pypi_0    pypi
+geopy                     2.3.0                    pypi_0    pypi
+gettext                   0.21.0               h4e8c18a_2  
+gevent                    24.2.1                   pypi_0    pypi
+gevent-websocket          0.10.1                   pypi_0    pypi
+giflib                    5.2.2                h10d778d_0    conda-forge
+git                       2.45.2          pl5340h6ecf5f8_1  
+gitdb                     4.0.11                   pypi_0    pypi
+gitpython                 3.1.43                   pypi_0    pypi
+glib                      2.78.4               hcec6c5f_0  
+glib-tools                2.78.4               hcec6c5f_0  
+googlemaps                4.10.0                   pypi_0    pypi
+googlesearch-python       1.2.5                    pypi_0    pypi
+googletrans               3.1.0a0                  pypi_0    pypi
+graphite2                 1.3.14               he9d5cce_1  
+greenlet                  3.0.3                    pypi_0    pypi
+grpcio                    1.68.0                   pypi_0    pypi
+gst-plugins-base          1.14.1               hcec6c5f_1  
+gstreamer                 1.14.1               h6c40b1e_1  
+gtts                      2.5.4                    pypi_0    pypi
+h11                       0.14.0                   pypi_0    pypi
+h2                        3.2.0                    pypi_0    pypi
+harfbuzz                  10.2.0               h5b8c2d6_0  
+hdf5                      1.14.5               h80586a8_2  
+hpack                     3.0.0                    pypi_0    pypi
+hstspreload               2025.1.1                 pypi_0    pypi
+httpcore                  1.0.7                    pypi_0    pypi
+httpx                     0.28.1                   pypi_0    pypi
+huggingface-hub           0.26.2                   pypi_0    pypi
+hyperframe                5.2.0                    pypi_0    pypi
+icu                       73.1                 hcec6c5f_0  
+idna                      2.10                     pypi_0    pypi
+ijson                     3.2.3                    pypi_0    pypi
+imagehash                 4.3.1                    pypi_0    pypi
+iniconfig                 2.0.0                    pypi_0    pypi
+intel-openmp              2023.1.0         ha357a0b_43548  
+ipwhois                   1.3.0                    pypi_0    pypi
+jinja2                    3.1.4                    pypi_0    pypi
+jiter                     0.7.1                    pypi_0    pypi
+joblib                    1.4.2                    pypi_0    pypi
+jpeg                      9e                   hb7f2c08_3    conda-forge
+kiwisolver                1.4.5                    pypi_0    pypi
+krb5                      1.20.1               h428f121_1  
+lame                      3.100             hb7f2c08_1003    conda-forge
+lark                      1.1.9                    pypi_0    pypi
+leptonica                 1.82.0               hf15457e_2  
+lerc                      4.0.0                hb486fe8_0    conda-forge
+libabseil                 20240116.2      cxx17_h548131f_0  
+libarchive                3.7.7                h4c66a04_0  
+libclang                  14.0.6          default_h182e8cd_2  
+libclang13                14.0.6          default_h9f4243d_2  
+libcurl                   8.9.1                h3a17b82_0  
+libcxx                    14.0.6               h9765a3e_0  
+libdeflate                1.22                 h00291cd_0    conda-forge
+libedit                   3.1.20230828         h6c40b1e_0  
+libev                     4.33                 h9ed2024_1  
+libexpat                  2.6.4                h240833e_0    conda-forge
+libffi                    3.4.4                hecd8cb5_0  
+libgfortran               5.0.0           13_2_0_h97931a8_3    conda-forge
+libgfortran5              13.2.0               h2873a65_3    conda-forge
+libglib                   2.78.4               h19e1a8f_0  
+libiconv                  1.16                 h6c40b1e_3  
+libllvm14                 14.0.6               h26321d7_4  
+liblzma                   5.6.4                hd471939_0    conda-forge
+liblzma-devel             5.6.4                hd471939_0    conda-forge
+libnghttp2                1.57.0               h9beae6a_0  
+libogg                    1.3.5                hfdf4475_0    conda-forge
+libopus                   1.3.1                hc929b4f_1    conda-forge
+libpng                    1.6.39               h6c40b1e_0  
+libpq                     17.4                 h184c1cd_0  
+libprotobuf               4.25.3               h34eed0b_0  
+librsvg                   2.56.3               ha9ee93f_1  
+libssh2                   1.11.0               hf20ceda_0  
+libtheora                 1.1.1             hfdf4475_1006    conda-forge
+libtiff                   4.5.1                h6fa9cd1_1  
+libvorbis                 1.3.7                h046ec9c_0    conda-forge
+libvpx                    1.13.1               hcec6c5f_0  
+libwebp                   1.3.2                hf6ce154_0  
+libwebp-base              1.3.2                h46256e1_1  
+libxml2                   2.13.5               h6070cd6_0  
+llvm-openmp               14.0.6               h0dcd299_0  
+llvmlite                  0.44.0                   pypi_0    pypi
+lollms                    9.5.1                    pypi_0    pypi
+lollms-client             0.7.7                    pypi_0    pypi
+lollmsvectordb            1.1.6                    pypi_0    pypi
+lxml                      5.3.0                    pypi_0    pypi
+lz4-c                     1.9.4                hf0c8a7f_0    conda-forge
+macholib                  1.16.3                   pypi_0    pypi
+mammoth                   1.7.0                    pypi_0    pypi
+markdown                  3.7                      pypi_0    pypi
+markdown-it-py            3.0.0                    pypi_0    pypi
+markupsafe                2.1.5                    pypi_0    pypi
+matplotlib                3.8.3                    pypi_0    pypi
+mdurl                     0.1.2                    pypi_0    pypi
+mkl                       2023.1.0         h8e150cf_43560  
+mkl-service               2.4.0           py312h46256e1_2  
+mkl_fft                   1.3.8           py312h6c40b1e_0  
+mkl_random                1.2.4           py312ha357a0b_0  
+mmh3                      4.1.0                    pypi_0    pypi
+more-itertools            10.6.0                   pypi_0    pypi
+mplcursors                0.6                      pypi_0    pypi
+mpmath                    1.3.0                    pypi_0    pypi
+msoffcrypto-tool          5.4.2                    pypi_0    pypi
+multidict                 6.1.0                    pypi_0    pypi
+multiprocess              0.70.16                  pypi_0    pypi
+mysql                     8.4.0                hbfece55_1  
+ncurses                   6.4                  hcec6c5f_0  
+networkx                  3.2.1                    pypi_0    pypi
+nska-deserialize          1.3.2                    pypi_0    pypi
+numba                     0.61.0                   pypi_0    pypi
+numpy                     1.26.3                   pypi_0    pypi
+numpy-base                1.26.4          py312h6f81483_0  
+olefile                   0.47                     pypi_0    pypi
+oletools                  0.60.2                   pypi_0    pypi
+openai                    1.102.0                  pypi_0    pypi
+openai-whisper            20240930                 pypi_0    pypi
+opencv                    4.10.0          py312he02067a_2  
+openh264                  2.1.1                h8346a28_0  
+openjpeg                  2.5.2                hbf2204d_0  
+openldap                  2.6.4                h6e6fb41_0  
+openpyxl                  3.1.2                    pypi_0    pypi
+openssl                   3.5.2                h6e31bce_0    conda-forge
+outcome                   1.3.0.post0              pypi_0    pypi
+packaging                 24.2                     pypi_0    pypi
+pandas                    2.2.3                    pypi_0    pypi
+pango                     1.50.7               h986b0af_1  
+pathlib2                  2.3.5                    pypi_0    pypi
+pcodedmp                  1.2.6                    pypi_0    pypi
+pcre2                     10.42                h9b97e30_1  
+pdf2image                 1.17.0                   pypi_0    pypi
+pdfminer                  20191125                 pypi_0    pypi
+pdfminer-six              20240706                 pypi_0    pypi
+perl                      5.34.0               h435f0c2_2  
+pgpy                      0.6.0                    pypi_0    pypi
+pillow                    11.0.0                   pypi_0    pypi
+pillow-heif               0.15.0                   pypi_0    pypi
+pip                       23.3.1          py312hecd8cb5_0  
+pipmaster                 0.4.0                    pypi_0    pypi
+pixman                    0.40.0               h9ed2024_1  
+pluggy                    1.5.0                    pypi_0    pypi
+polyline                  2.0.0                    pypi_0    pypi
+propcache                 0.2.0                    pypi_0    pypi
+protobuf                  5.28.3                   pypi_0    pypi
+psutil                    6.1.0                    pypi_0    pypi
+pyaes                     1.6.1                    pypi_0    pypi
+pyarrow                   15.0.0                   pypi_0    pypi
+pyasn1                    0.5.1                    pypi_0    pypi
+pyaudio                   0.2.14                   pypi_0    pypi
+pycodestyle               2.12.1                   pypi_0    pypi
+pycowsay                  0.0.0.2                  pypi_0    pypi
+pycparser                 2.21                     pypi_0    pypi
+pycryptodome              3.20.0                   pypi_0    pypi
+pydantic                  2.10.1                   pypi_0    pypi
+pydantic-core             2.27.1                   pypi_0    pypi
+pyfiglet                  1.0.2                    pypi_0    pypi
+pygame                    2.6.1                    pypi_0    pypi
+pygments                  2.18.0                   pypi_0    pypi
+pyinstaller               6.1.0                    pypi_0    pypi
+pyinstaller-hooks-contrib 2023.11                  pypi_0    pypi
+pyliblzfse                0.4.1                    pypi_0    pypi
+pymupdf                   1.23.26                  pypi_0    pypi
+pymupdfb                  1.23.22                  pypi_0    pypi
+pymysql                   1.1.1                    pypi_0    pypi
+pyobjc                    11.0                     pypi_0    pypi
+pyobjc-core               11.0                     pypi_0    pypi
+pyobjc-framework-accessibility 11.0                     pypi_0    pypi
+pyobjc-framework-accounts 11.0                     pypi_0    pypi
+pyobjc-framework-addressbook 11.0                     pypi_0    pypi
+pyobjc-framework-adservices 11.0                     pypi_0    pypi
+pyobjc-framework-adsupport 11.0                     pypi_0    pypi
+pyobjc-framework-applescriptkit 11.0                     pypi_0    pypi
+pyobjc-framework-applescriptobjc 11.0                     pypi_0    pypi
+pyobjc-framework-applicationservices 11.0                     pypi_0    pypi
+pyobjc-framework-apptrackingtransparency 11.0                     pypi_0    pypi
+pyobjc-framework-audiovideobridging 11.0                     pypi_0    pypi
+pyobjc-framework-authenticationservices 11.0                     pypi_0    pypi
+pyobjc-framework-automaticassessmentconfiguration 11.0                     pypi_0    pypi
+pyobjc-framework-automator 11.0                     pypi_0    pypi
+pyobjc-framework-avfoundation 11.0                     pypi_0    pypi
+pyobjc-framework-avkit    11.0                     pypi_0    pypi
+pyobjc-framework-avrouting 11.0                     pypi_0    pypi
+pyobjc-framework-backgroundassets 11.0                     pypi_0    pypi
+pyobjc-framework-businesschat 11.0                     pypi_0    pypi
+pyobjc-framework-calendarstore 11.0                     pypi_0    pypi
+pyobjc-framework-callkit  11.0                     pypi_0    pypi
+pyobjc-framework-carbon   11.0                     pypi_0    pypi
+pyobjc-framework-cfnetwork 11.0                     pypi_0    pypi
+pyobjc-framework-classkit 11.0                     pypi_0    pypi
+pyobjc-framework-cloudkit 11.0                     pypi_0    pypi
+pyobjc-framework-cocoa    11.0                     pypi_0    pypi
+pyobjc-framework-collaboration 11.0                     pypi_0    pypi
+pyobjc-framework-colorsync 11.0                     pypi_0    pypi
+pyobjc-framework-contacts 11.0                     pypi_0    pypi
+pyobjc-framework-contactsui 11.0                     pypi_0    pypi
+pyobjc-framework-coreaudio 11.0                     pypi_0    pypi
+pyobjc-framework-coreaudiokit 11.0                     pypi_0    pypi
+pyobjc-framework-corebluetooth 11.0                     pypi_0    pypi
+pyobjc-framework-coredata 11.0                     pypi_0    pypi
+pyobjc-framework-corehaptics 11.0                     pypi_0    pypi
+pyobjc-framework-corelocation 11.0                     pypi_0    pypi
+pyobjc-framework-coremedia 11.0                     pypi_0    pypi
+pyobjc-framework-coremediaio 11.0                     pypi_0    pypi
+pyobjc-framework-coremidi 11.0                     pypi_0    pypi
+pyobjc-framework-coreml   11.0                     pypi_0    pypi
+pyobjc-framework-coremotion 11.0                     pypi_0    pypi
+pyobjc-framework-coreservices 11.0                     pypi_0    pypi
+pyobjc-framework-corespotlight 11.0                     pypi_0    pypi
+pyobjc-framework-coretext 11.0                     pypi_0    pypi
+pyobjc-framework-corewlan 11.0                     pypi_0    pypi
+pyobjc-framework-cryptotokenkit 11.0                     pypi_0    pypi
+pyobjc-framework-datadetection 11.0                     pypi_0    pypi
+pyobjc-framework-devicecheck 11.0                     pypi_0    pypi
+pyobjc-framework-dictionaryservices 11.0                     pypi_0    pypi
+pyobjc-framework-discrecording 11.0                     pypi_0    pypi
+pyobjc-framework-discrecordingui 11.0                     pypi_0    pypi
+pyobjc-framework-diskarbitration 11.0                     pypi_0    pypi
+pyobjc-framework-dvdplayback 11.0                     pypi_0    pypi
+pyobjc-framework-eventkit 11.0                     pypi_0    pypi
+pyobjc-framework-exceptionhandling 11.0                     pypi_0    pypi
+pyobjc-framework-executionpolicy 11.0                     pypi_0    pypi
+pyobjc-framework-extensionkit 11.0                     pypi_0    pypi
+pyobjc-framework-externalaccessory 11.0                     pypi_0    pypi
+pyobjc-framework-fileprovider 11.0                     pypi_0    pypi
+pyobjc-framework-fileproviderui 11.0                     pypi_0    pypi
+pyobjc-framework-findersync 11.0                     pypi_0    pypi
+pyobjc-framework-fsevents 11.0                     pypi_0    pypi
+pyobjc-framework-gamecenter 11.0                     pypi_0    pypi
+pyobjc-framework-gamecontroller 11.0                     pypi_0    pypi
+pyobjc-framework-gamekit  11.0                     pypi_0    pypi
+pyobjc-framework-gameplaykit 11.0                     pypi_0    pypi
+pyobjc-framework-healthkit 11.0                     pypi_0    pypi
+pyobjc-framework-imagecapturecore 11.0                     pypi_0    pypi
+pyobjc-framework-inputmethodkit 11.0                     pypi_0    pypi
+pyobjc-framework-installerplugins 11.0                     pypi_0    pypi
+pyobjc-framework-instantmessage 11.0                     pypi_0    pypi
+pyobjc-framework-intents  11.0                     pypi_0    pypi
+pyobjc-framework-intentsui 11.0                     pypi_0    pypi
+pyobjc-framework-iobluetooth 11.0                     pypi_0    pypi
+pyobjc-framework-iobluetoothui 11.0                     pypi_0    pypi
+pyobjc-framework-iosurface 11.0                     pypi_0    pypi
+pyobjc-framework-ituneslibrary 11.0                     pypi_0    pypi
+pyobjc-framework-kernelmanagement 11.0                     pypi_0    pypi
+pyobjc-framework-latentsemanticmapping 11.0                     pypi_0    pypi
+pyobjc-framework-launchservices 11.0                     pypi_0    pypi
+pyobjc-framework-libdispatch 11.0                     pypi_0    pypi
+pyobjc-framework-libxpc   11.0                     pypi_0    pypi
+pyobjc-framework-linkpresentation 11.0                     pypi_0    pypi
+pyobjc-framework-localauthentication 11.0                     pypi_0    pypi
+pyobjc-framework-localauthenticationembeddedui 11.0                     pypi_0    pypi
+pyobjc-framework-mailkit  11.0                     pypi_0    pypi
+pyobjc-framework-mapkit   11.0                     pypi_0    pypi
+pyobjc-framework-mediaaccessibility 11.0                     pypi_0    pypi
+pyobjc-framework-medialibrary 11.0                     pypi_0    pypi
+pyobjc-framework-mediaplayer 11.0                     pypi_0    pypi
+pyobjc-framework-mediatoolbox 11.0                     pypi_0    pypi
+pyobjc-framework-metal    11.0                     pypi_0    pypi
+pyobjc-framework-metalfx  11.0                     pypi_0    pypi
+pyobjc-framework-metalkit 11.0                     pypi_0    pypi
+pyobjc-framework-metalperformanceshaders 11.0                     pypi_0    pypi
+pyobjc-framework-metalperformanceshadersgraph 11.0                     pypi_0    pypi
+pyobjc-framework-metrickit 11.0                     pypi_0    pypi
+pyobjc-framework-mlcompute 11.0                     pypi_0    pypi
+pyobjc-framework-modelio  11.0                     pypi_0    pypi
+pyobjc-framework-multipeerconnectivity 11.0                     pypi_0    pypi
+pyobjc-framework-naturallanguage 11.0                     pypi_0    pypi
+pyobjc-framework-netfs    11.0                     pypi_0    pypi
+pyobjc-framework-network  11.0                     pypi_0    pypi
+pyobjc-framework-networkextension 11.0                     pypi_0    pypi
+pyobjc-framework-notificationcenter 11.0                     pypi_0    pypi
+pyobjc-framework-opendirectory 11.0                     pypi_0    pypi
+pyobjc-framework-osakit   11.0                     pypi_0    pypi
+pyobjc-framework-oslog    11.0                     pypi_0    pypi
+pyobjc-framework-passkit  11.0                     pypi_0    pypi
+pyobjc-framework-pencilkit 11.0                     pypi_0    pypi
+pyobjc-framework-phase    11.0                     pypi_0    pypi
+pyobjc-framework-photos   11.0                     pypi_0    pypi
+pyobjc-framework-photosui 11.0                     pypi_0    pypi
+pyobjc-framework-preferencepanes 11.0                     pypi_0    pypi
+pyobjc-framework-pushkit  11.0                     pypi_0    pypi
+pyobjc-framework-quartz   11.0                     pypi_0    pypi
+pyobjc-framework-quicklookthumbnailing 11.0                     pypi_0    pypi
+pyobjc-framework-replaykit 11.0                     pypi_0    pypi
+pyobjc-framework-safariservices 11.0                     pypi_0    pypi
+pyobjc-framework-safetykit 11.0                     pypi_0    pypi
+pyobjc-framework-scenekit 11.0                     pypi_0    pypi
+pyobjc-framework-screencapturekit 11.0                     pypi_0    pypi
+pyobjc-framework-screensaver 11.0                     pypi_0    pypi
+pyobjc-framework-screentime 11.0                     pypi_0    pypi
+pyobjc-framework-scriptingbridge 11.0                     pypi_0    pypi
+pyobjc-framework-searchkit 11.0                     pypi_0    pypi
+pyobjc-framework-security 11.0                     pypi_0    pypi
+pyobjc-framework-securityfoundation 11.0                     pypi_0    pypi
+pyobjc-framework-securityinterface 11.0                     pypi_0    pypi
+pyobjc-framework-servicemanagement 11.0                     pypi_0    pypi
+pyobjc-framework-sharedwithyou 11.0                     pypi_0    pypi
+pyobjc-framework-sharedwithyoucore 11.0                     pypi_0    pypi
+pyobjc-framework-shazamkit 11.0                     pypi_0    pypi
+pyobjc-framework-social   11.0                     pypi_0    pypi
+pyobjc-framework-soundanalysis 11.0                     pypi_0    pypi
+pyobjc-framework-speech   11.0                     pypi_0    pypi
+pyobjc-framework-spritekit 11.0                     pypi_0    pypi
+pyobjc-framework-storekit 11.0                     pypi_0    pypi
+pyobjc-framework-syncservices 11.0                     pypi_0    pypi
+pyobjc-framework-systemconfiguration 11.0                     pypi_0    pypi
+pyobjc-framework-systemextensions 11.0                     pypi_0    pypi
+pyobjc-framework-threadnetwork 11.0                     pypi_0    pypi
+pyobjc-framework-uniformtypeidentifiers 11.0                     pypi_0    pypi
+pyobjc-framework-usernotifications 11.0                     pypi_0    pypi
+pyobjc-framework-usernotificationsui 11.0                     pypi_0    pypi
+pyobjc-framework-videosubscriberaccount 11.0                     pypi_0    pypi
+pyobjc-framework-videotoolbox 11.0                     pypi_0    pypi
+pyobjc-framework-virtualization 11.0                     pypi_0    pypi
+pyobjc-framework-vision   11.0                     pypi_0    pypi
+pyobjc-framework-webkit   11.0                     pypi_0    pypi
+pyparsing                 3.1.1                    pypi_0    pypi
+pypdf                     4.1.0                    pypi_0    pypi
+pypdf2                    3.0.1                    pypi_0    pypi
+pysimplegui               4.60.5                   pypi_0    pypi
+pysocks                   1.7.1                    pypi_0    pypi
+pytesseract               0.3.13                   pypi_0    pypi
+pytest                    8.3.3                    pypi_0    pypi
+python                    3.12.1               hd58486a_0  
+python-dateutil           2.8.2                    pypi_0    pypi
+python-docx               1.1.2                    pypi_0    pypi
+python-dotenv             1.1.0                    pypi_0    pypi
+python-engineio           4.10.1                   pypi_0    pypi
+python-multipart          0.0.17                   pypi_0    pypi
+python-pptx               1.0.2                    pypi_0    pypi
+python-snappy             0.7.3                    pypi_0    pypi
+python-socketio           5.11.4                   pypi_0    pypi
+pyttsx3                   2.98                     pypi_0    pypi
+pytz                      2024.1                   pypi_0    pypi
+pywavelets                1.7.0                    pypi_0    pypi
+pyyaml                    6.0.2                    pypi_0    pypi
+qt                        5.15.9               hecd8cb5_0  
+qt-main                   5.15.2              hf83fbd5_12  
+qt-webengine              5.15.9               h90a370e_7  
+readline                  8.2                  hca72f7f_0  
+red-black-tree-mod        1.20                     pypi_0    pypi
+regex                     2024.11.6                pypi_0    pypi
+requests                  2.32.3                   pypi_0    pypi
+requests-file             2.1.0                    pypi_0    pypi
+rfc3986                   1.5.0                    pypi_0    pypi
+rich                      13.9.4                   pypi_0    pypi
+rsa                       4.9                      pypi_0    pypi
+rtfde                     0.1.2                    pypi_0    pypi
+sacremoses                0.0.53                   pypi_0    pypi
+safe-store                0.7.2                    pypi_0    pypi
+safetensors               0.4.1                    pypi_0    pypi
+scikit-learn              1.5.2                    pypi_0    pypi
+scipy                     1.14.1                   pypi_0    pypi
+scrapemaster              0.2.2                    pypi_0    pypi
+seaborn                   0.13.2                   pypi_0    pypi
+selenium                  4.26.1                   pypi_0    pypi
+sentence-transformers     3.3.1                    pypi_0    pypi
+sentencepiece             0.2.0                    pypi_0    pypi
+setuptools                70.2.0                   pypi_0    pypi
+shodan                    1.31.0                   pypi_0    pypi
+simple-websocket          1.1.0                    pypi_0    pypi
+simplekml                 1.3.6                    pypi_0    pypi
+six                       1.16.0                   pypi_0    pypi
+smmap                     5.0.1                    pypi_0    pypi
+sniffio                   1.3.1                    pypi_0    pypi
+sortedcontainers          2.4.0                    pypi_0    pypi
+soupsieve                 2.5                      pypi_0    pypi
+speechrecognition         3.14.1                   pypi_0    pypi
+sqlalchemy                2.0.34                   pypi_0    pypi
+sqlite                    3.45.3               h6c40b1e_0  
+stanza                    1.1.1                    pypi_0    pypi
+starlette                 0.41.3                   pypi_0    pypi
+sympy                     1.13.3                   pypi_0    pypi
+tbb                       2021.8.0             ha357a0b_0  
+telethon                  1.36.0                   pypi_0    pypi
+tensorboard               2.18.0                   pypi_0    pypi
+tensorboard-data-server   0.7.2                    pypi_0    pypi
+tesseract                 5.2.0                h6d0c2b6_2  
+threadpoolctl             3.5.0                    pypi_0    pypi
+tiktoken                  0.8.0                    pypi_0    pypi
+tk                        8.6.14               h4d00af3_0  
+tldextract                5.3.0                    pypi_0    pypi
+tokenizers                0.20.3                   pypi_0    pypi
+torch                     2.2.2                    pypi_0    pypi
+tqdm                      4.67.0                   pypi_0    pypi
+transformers              4.46.3                   pypi_0    pypi
+trio                      0.27.0                   pypi_0    pypi
+trio-websocket            0.11.1                   pypi_0    pypi
+typing-extensions         4.12.2                   pypi_0    pypi
+tzdata                    2024.1                   pypi_0    pypi
+tzlocal                   5.2                      pypi_0    pypi
+urllib3                   2.2.1                    pypi_0    pypi
+uvicorn                   0.32.1                   pypi_0    pypi
+websocket-client          1.8.0                    pypi_0    pypi
+werkzeug                  3.1.3                    pypi_0    pypi
+wget                      3.2                      pypi_0    pypi
+wheel                     0.45.0                   pypi_0    pypi
+whichcraft                0.6.1                    pypi_0    pypi
+wsproto                   1.2.0                    pypi_0    pypi
+xlrd                      1.2.0                    pypi_0    pypi
+xlsxwriter                3.1.1                    pypi_0    pypi
+xmltodict                 0.13.0                   pypi_0    pypi
+xxhash                    3.5.0                    pypi_0    pypi
+xz                        5.6.4                h357f2ed_0    conda-forge
+xz-gpl-tools              5.6.4                h357f2ed_0    conda-forge
+xz-tools                  5.6.4                hd471939_0    conda-forge
+yarl                      1.18.0                   pypi_0    pypi
+zipfile36                 0.1.3                    pypi_0    pypi
+zlib                      1.2.13               h4dc903c_0  
+zope-event                5.0                      pypi_0    pypi
+zope-interface            6.2                      pypi_0    pypi
+zstd                      1.5.6                h138b38a_0  
