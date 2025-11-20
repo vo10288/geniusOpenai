@@ -1,0 +1,2 @@
+# geniusOpenai
+AI api Openai 
