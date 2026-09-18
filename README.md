@@ -1,3 +1,4 @@
 # geniusOpenai
 AI api Openai 
-https://github.com/vo10288/geniusOpenai/blob/main/anto2025.png
+<img width="1448" height="1086" alt="anto2025" src="https://github.com/user-attachments/assets/81a21ae4-259b-44b4-90ea-3c826389de46" />
+
